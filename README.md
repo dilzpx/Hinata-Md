@@ -1,10 +1,9 @@
 <p align="center">
-<img src="https://telegra.ph/file/26d2b41025793bd7614a7.jpg" alt="Hinata-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DILZPX" src="https://img.shields.io/badge/DILZPX-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riy04/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
